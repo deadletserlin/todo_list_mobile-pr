@@ -122,7 +122,6 @@ class _TodoHomePageState extends State<TodoHomePage> {
           padding: const EdgeInsets.fromLTRB(20, 20, 20, 12),
           child: Column(
             children: [
-              // Input nya
               Row(
                 children: [
                   Expanded(
@@ -178,7 +177,6 @@ class _TodoHomePageState extends State<TodoHomePage> {
 
               const SizedBox(height: 26),
 
-              // jumlah tugas sisA
               Row(
                 children: [
                   Expanded(
